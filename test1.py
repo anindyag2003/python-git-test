@@ -10,3 +10,8 @@ import pandas as pd
 print("conflict??")
 
 print("no conflict")
+
+def func1():
+    return 7%2
+
+print(func1())
